@@ -1,0 +1,17 @@
+.btn {
+    color: white;
+    background-color: #8D6E63;
+    border: #8D6E63;
+}
+
+.btn:hover {
+    background-color: #A1887F;
+}
+
+.browse-btn {
+    margin-top: 20px;
+    background: none;
+    border: none;
+    font-size: large;
+    color: black;
+}
